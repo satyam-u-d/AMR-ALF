@@ -8,5 +8,5 @@
 <h2>ALF Data Flow</h2>
 
 <p align="center">
-<img src="img/ALF_data.png" width="80%" /><br>
+<img src="img/ALF_data.jpeg" width="80%" /><br>
 </p>
